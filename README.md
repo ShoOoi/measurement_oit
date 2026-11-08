@@ -9,10 +9,10 @@
 
 | 回 | 主な内容 | 使用するもの |
 |---|---|---|
-| 第6回 | BLE Beacon の基礎，KBeaconPro，RSSI と実距離の関係 | KBeaconPro，メジャー |
-| 第7回 | RSSI から距離を推定，1台→2台→3台，PCでRSSI取得 | `beacon_gui.py` |
-| 第8回 | 受信差，誤差，1m校正，遮蔽物，距離推定誤差 | `beacon_gui.py` |
-| 第9回 | 最小二乗法，グリッドサーチ，自己位置推定 | `beacon_gui.py`，`beacon_position_estimation_gui.py` |
+| Beacon第1回 | BLE Beacon の基礎，KBeaconPro，RSSI と実距離の関係 | KBeaconPro，メジャー |
+| Beacon第2回 | RSSI から距離を推定，1台→2台→3台，PCでRSSI取得 | `beacon_gui.py` |
+| Beacon第3回 | 受信差，誤差，1m校正，遮蔽物，距離推定誤差 | `beacon_gui.py` |
+| Beacon第4回 | 最小二乗法，グリッドサーチ，自己位置推定 | `beacon_gui.py`，`beacon_position_estimation_gui.py` |
 
 授業では，次の流れで測定から位置推定までをつなげます．
 
